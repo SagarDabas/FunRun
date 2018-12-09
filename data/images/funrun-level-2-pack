@@ -1,0 +1,19 @@
+
+level-2-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud
+  rotate: false
+  xy: 0, 0
+  size: 516, 275
+  orig: 518, 277
+  offset: 2, 0
+  index: -1
+airyPlatform
+  rotate: false
+  xy: 0, 277
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1

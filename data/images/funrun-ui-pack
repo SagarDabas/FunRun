@@ -1,0 +1,407 @@
+
+UI1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+commonBG
+  rotate: false
+  xy: 0, 0
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+selectLevelBG
+  rotate: false
+  xy: 0, 482
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+ui-store-frame
+  rotate: false
+  xy: 802, 0
+  size: 181, 209
+  orig: 181, 246
+  offset: 0, 37
+  index: -1
+ui-store-scrollOver
+  rotate: false
+  xy: 802, 482
+  size: 74, 480
+  orig: 800, 480
+  offset: 726, 0
+  index: -1
+playButton
+  rotate: false
+  xy: 802, 211
+  size: 157, 173
+  orig: 800, 480
+  offset: 362, 12
+  index: -1
+resultText
+  rotate: false
+  xy: 0, 964
+  size: 287, 60
+  orig: 800, 480
+  offset: 251, 404
+  index: -1
+ui-store-playerIcon
+  rotate: false
+  xy: 878, 482
+  size: 129, 103
+  orig: 181, 246
+  offset: 28, 116
+  index: 1
+ui-multiplayer-playerIcon
+  rotate: false
+  xy: 878, 587
+  size: 117, 110
+  orig: 240, 174
+  offset: 64, 41
+  index: 3
+ui-multiplayer-playerIcon
+  rotate: false
+  xy: 878, 699
+  size: 108, 117
+  orig: 240, 174
+  offset: 65, 40
+  index: 4
+ui-store-playerIcon
+  rotate: false
+  xy: 802, 386
+  size: 125, 93
+  orig: 181, 246
+  offset: 26, 113
+  index: 2
+searchingText
+  rotate: false
+  xy: 289, 964
+  size: 230, 48
+  orig: 240, 174
+  offset: 9, 55
+  index: -1
+ui-multiplayer-playerIcon
+  rotate: false
+  xy: 878, 818
+  size: 97, 112
+  orig: 240, 174
+  offset: 70, 39
+  index: 7
+ui-store-playerIcon
+  rotate: false
+  xy: 878, 932
+  size: 114, 88
+  orig: 181, 246
+  offset: 33, 117
+  index: 5
+ui-store-storetext
+  rotate: false
+  xy: 521, 964
+  size: 183, 52
+  orig: 800, 480
+  offset: 311, 416
+  index: -1
+ui-store-playerIcon
+  rotate: false
+  xy: 929, 386
+  size: 80, 84
+  orig: 181, 246
+  offset: 50, 124
+  index: 7
+resultRefresh
+  rotate: false
+  xy: 961, 211
+  size: 61, 68
+  orig: 800, 480
+  offset: 684, 12
+  index: -1
+gameSelectHome
+  rotate: false
+  xy: 706, 964
+  size: 68, 54
+  orig: 800, 480
+  offset: 373, 4
+  index: -1
+selectLevelHome
+  rotate: false
+  xy: 961, 281
+  size: 62, 53
+  orig: 800, 480
+  offset: 17, 7
+  index: -1
+soundOn
+  rotate: false
+  xy: 961, 336
+  size: 62, 46
+  orig: 800, 480
+  offset: 16, 20
+  index: -1
+ui-store-buy
+  rotate: false
+  xy: 802, 964
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+soundOff
+  rotate: false
+  xy: 977, 818
+  size: 41, 46
+  orig: 800, 480
+  offset: 16, 20
+  index: -1
+arrowLeft
+  rotate: false
+  xy: 985, 0
+  size: 38, 45
+  orig: 800, 480
+  offset: 0, 206
+  index: -1
+arrowRight
+  rotate: false
+  xy: 985, 47
+  size: 38, 45
+  orig: 800, 480
+  offset: 762, 206
+  index: -1
+coin
+  rotate: false
+  xy: 985, 94
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+
+UI2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gameSelectbg
+  rotate: false
+  xy: 0, 0
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+levelIcon
+  rotate: false
+  xy: 0, 482
+  size: 443, 313
+  orig: 800, 480
+  offset: 178, 84
+  index: 3
+levelIcon
+  rotate: false
+  xy: 445, 482
+  size: 443, 313
+  orig: 800, 480
+  offset: 178, 84
+  index: 1
+multiplayer
+  rotate: false
+  xy: 0, 797
+  size: 349, 178
+  orig: 800, 480
+  offset: 239, 42
+  index: -1
+friendInvite
+  rotate: false
+  xy: 445, 797
+  size: 225, 154
+  orig: 800, 480
+  offset: 575, 19
+  index: -1
+singlePlayer
+  rotate: false
+  xy: 672, 797
+  size: 227, 147
+  orig: 800, 480
+  offset: 14, 21
+  index: -1
+ui-multiplayer-playerIcon
+  rotate: false
+  xy: 802, 0
+  size: 176, 124
+  orig: 240, 174
+  offset: 22, 48
+  index: 8
+ui-multiplayer-playerIcon
+  rotate: false
+  xy: 802, 126
+  size: 159, 123
+  orig: 240, 174
+  offset: 30, 23
+  index: 5
+ui-multiplayer-playerIcon
+  rotate: false
+  xy: 802, 251
+  size: 163, 119
+  orig: 240, 174
+  offset: 23, 27
+  index: 2
+ui-store-playerIcon
+  rotate: false
+  xy: 802, 372
+  size: 100, 94
+  orig: 181, 246
+  offset: 38, 121
+  index: 3
+ui-store-playerIcon
+  rotate: false
+  xy: 904, 372
+  size: 108, 86
+  orig: 181, 246
+  offset: 35, 122
+  index: 8
+ui-store-playerIcon
+  rotate: false
+  xy: 890, 482
+  size: 108, 86
+  orig: 181, 246
+  offset: 36, 125
+  index: 6
+ui-store-playerIcon
+  rotate: false
+  xy: 351, 797
+  size: 92, 100
+  orig: 181, 246
+  offset: 45, 111
+  index: 4
+resultStore
+  rotate: false
+  xy: 351, 899
+  size: 81, 75
+  orig: 800, 480
+  offset: 366, 8
+  index: -1
+multiplayerHome
+  rotate: false
+  xy: 890, 570
+  size: 82, 74
+  orig: 800, 480
+  offset: 14, 394
+  index: -1
+storeButton
+  rotate: false
+  xy: 890, 646
+  size: 85, 70
+  orig: 800, 480
+  offset: 679, 7
+  index: -1
+soundbox
+  rotate: false
+  xy: 890, 718
+  size: 85, 70
+  orig: 800, 480
+  offset: 6, 7
+  index: -1
+leaderBoardButton
+  rotate: false
+  xy: 445, 953
+  size: 85, 70
+  orig: 800, 480
+  offset: 153, 6
+  index: -1
+ui-store-coins
+  rotate: false
+  xy: 0, 977
+  size: 127, 46
+  orig: 800, 480
+  offset: 670, 425
+  index: -1
+resultHome
+  rotate: false
+  xy: 532, 953
+  size: 83, 69
+  orig: 800, 480
+  offset: 17, 11
+  index: -1
+ui-store-freecoins
+  rotate: false
+  xy: 129, 977
+  size: 127, 44
+  orig: 800, 480
+  offset: 0, 436
+  index: -1
+ui-store-buycoins
+  rotate: false
+  xy: 672, 946
+  size: 124, 44
+  orig: 800, 480
+  offset: 676, 0
+  index: -1
+ui-store-equip
+  rotate: false
+  xy: 901, 797
+  size: 116, 39
+  orig: 116, 39
+  offset: 0, 0
+  index: -1
+ui-store-equipped
+  rotate: false
+  xy: 901, 838
+  size: 116, 39
+  orig: 181, 246
+  offset: 29, 0
+  index: -1
+uiscores
+  rotate: false
+  xy: 258, 977
+  size: 83, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: 1
+uiscores
+  rotate: false
+  xy: 351, 976
+  size: 78, 27
+  orig: 83, 27
+  offset: 1, 0
+  index: 4
+uiscores
+  rotate: false
+  xy: 672, 992
+  size: 78, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: 2
+uiscores
+  rotate: false
+  xy: 798, 946
+  size: 76, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: 3
+
+UI3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+levelIcon
+  rotate: false
+  xy: 0, 0
+  size: 443, 313
+  orig: 800, 480
+  offset: 178, 84
+  index: 2
+leaderBoard
+  rotate: false
+  xy: 0, 315
+  size: 312, 229
+  orig: 800, 480
+  offset: 36, 126
+  index: -1
+ui-multiplayer-playerIcon
+  rotate: false
+  xy: 314, 315
+  size: 155, 124
+  orig: 240, 174
+  offset: 27, 37
+  index: 1
+ui-multiplayer-playerIcon
+  rotate: false
+  xy: 0, 546
+  size: 150, 119
+  orig: 240, 174
+  offset: 43, 39
+  index: 6

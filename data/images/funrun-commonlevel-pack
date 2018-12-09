@@ -1,0 +1,1882 @@
+
+commonlevel1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+levelBG
+  rotate: false
+  xy: 0, 0
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+translucent
+  rotate: false
+  xy: 0, 482
+  size: 800, 334
+  orig: 800, 480
+  offset: 0, 146
+  index: -1
+freezeNew
+  rotate: false
+  xy: 0, 818
+  size: 571, 131
+  orig: 571, 136
+  offset: 0, 0
+  index: 7
+bloodPatch
+  rotate: false
+  xy: 802, 0
+  size: 199, 193
+  orig: 800, 480
+  offset: 0, 0
+  index: 3
+building
+  rotate: false
+  xy: 802, 195
+  size: 145, 256
+  orig: 145, 256
+  offset: 0, 0
+  index: 5
+building
+  rotate: false
+  xy: 802, 482
+  size: 145, 256
+  orig: 145, 256
+  offset: 0, 0
+  index: 3
+teleport
+  rotate: false
+  xy: 573, 818
+  size: 174, 183
+  orig: 174, 183
+  offset: 0, 0
+  index: 7
+shield
+  rotate: false
+  xy: 802, 740
+  size: 169, 169
+  orig: 169, 169
+  offset: 0, 0
+  index: -1
+freezeNew
+  rotate: false
+  xy: 802, 911
+  size: 175, 103
+  orig: 175, 103
+  offset: 0, 0
+  index: 1
+cloud
+  rotate: false
+  xy: 0, 951
+  size: 269, 55
+  orig: 269, 55
+  offset: 0, 0
+  index: 4
+cloud
+  rotate: false
+  xy: 271, 951
+  size: 244, 53
+  orig: 244, 53
+  offset: 0, 0
+  index: 3
+REDGIRLFALL
+  rotate: false
+  xy: 949, 195
+  size: 62, 147
+  orig: 62, 148
+  offset: 0, 1
+  index: 1
+shock
+  rotate: false
+  xy: 949, 344
+  size: 71, 125
+  orig: 71, 125
+  offset: 0, 0
+  index: 1
+REDGIRLFALL
+  rotate: false
+  xy: 949, 482
+  size: 59, 145
+  orig: 62, 148
+  offset: 0, 2
+  index: 2
+HELMETBOYFALL
+  rotate: false
+  xy: 949, 629
+  size: 75, 108
+  orig: 88, 110
+  offset: 0, 0
+  index: 5
+GIRLFALL
+  rotate: false
+  xy: 749, 818
+  size: 51, 145
+  orig: 62, 148
+  offset: 8, 2
+  index: 2
+GIRLFALL
+  rotate: false
+  xy: 973, 740
+  size: 50, 142
+  orig: 62, 148
+  offset: 7, 4
+  index: 8
+obstacleTrigger
+  rotate: false
+  xy: 517, 951
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+playersIcon
+  rotate: false
+  xy: 749, 965
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: 1
+GIRLBODY
+  rotate: false
+  xy: 979, 911
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: 1
+beartrap
+  rotate: false
+  xy: 802, 453
+  size: 96, 17
+  orig: 96, 17
+  offset: 0, 0
+  index: 1
+beartrap
+  rotate: false
+  xy: 271, 1006
+  size: 96, 17
+  orig: 96, 17
+  offset: 0, 0
+  index: 6
+beartrap
+  rotate: false
+  xy: 979, 961
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: 2
+GIRLBODY
+  rotate: false
+  xy: 900, 453
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: 2
+bombtrap
+  rotate: false
+  xy: 369, 1006
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: 1
+BLACKBOYBODY
+  rotate: false
+  xy: 0, 1008
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: 2
+BLACKBOYBODY
+  rotate: false
+  xy: 44, 1008
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: 3
+BLACKBOYBODY
+  rotate: false
+  xy: 414, 1006
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: 4
+GIRLBODY
+  rotate: false
+  xy: 88, 1008
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: 4
+GIRLBODY
+  rotate: false
+  xy: 949, 471
+  size: 45, 9
+  orig: 45, 9
+  offset: 0, 0
+  index: 3
+bombtrap
+  rotate: false
+  xy: 130, 1008
+  size: 43, 9
+  orig: 43, 17
+  offset: 0, 0
+  index: 2
+mind-blast
+  rotate: false
+  xy: 1003, 0
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+
+commonlevel2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+thunder
+  rotate: false
+  xy: 0, 0
+  size: 378, 480
+  orig: 378, 480
+  offset: 0, 0
+  index: -1
+building
+  rotate: false
+  xy: 0, 482
+  size: 304, 257
+  orig: 304, 257
+  offset: 0, 0
+  index: 7
+building
+  rotate: false
+  xy: 0, 741
+  size: 304, 257
+  orig: 304, 257
+  offset: 0, 0
+  index: 4
+bloodPatch
+  rotate: false
+  xy: 380, 0
+  size: 325, 237
+  orig: 800, 480
+  offset: 475, 0
+  index: 1
+freezeNew
+  rotate: false
+  xy: 380, 239
+  size: 541, 130
+  orig: 541, 136
+  offset: 0, 0
+  index: 6
+freezeNew
+  rotate: false
+  xy: 380, 371
+  size: 467, 131
+  orig: 467, 136
+  offset: 0, 0
+  index: 5
+bloodPatch
+  rotate: false
+  xy: 707, 0
+  size: 302, 174
+  orig: 800, 480
+  offset: 0, 306
+  index: 4
+bloodPatch
+  rotate: false
+  xy: 380, 504
+  size: 272, 179
+  orig: 800, 480
+  offset: 528, 301
+  index: 2
+freezeNew
+  rotate: false
+  xy: 654, 504
+  size: 348, 136
+  orig: 348, 136
+  offset: 0, 0
+  index: 4
+freezeNew
+  rotate: false
+  xy: 380, 685
+  size: 201, 141
+  orig: 201, 145
+  offset: 0, 0
+  index: 3
+teleport
+  rotate: false
+  xy: 380, 828
+  size: 148, 183
+  orig: 148, 183
+  offset: 0, 0
+  index: 6
+building
+  rotate: false
+  xy: 654, 642
+  size: 176, 151
+  orig: 176, 151
+  offset: 0, 0
+  index: 8
+building
+  rotate: false
+  xy: 832, 642
+  size: 175, 150
+  orig: 175, 150
+  offset: 0, 0
+  index: 1
+teleport
+  rotate: false
+  xy: 654, 795
+  size: 125, 181
+  orig: 125, 181
+  offset: 0, 0
+  index: 5
+freezeNew
+  rotate: false
+  xy: 849, 371
+  size: 175, 114
+  orig: 180, 119
+  offset: 0, 0
+  index: 2
+teleport
+  rotate: false
+  xy: 530, 828
+  size: 102, 159
+  orig: 102, 159
+  offset: 0, 0
+  index: 4
+teleport
+  rotate: false
+  xy: 923, 239
+  size: 101, 113
+  orig: 101, 113
+  offset: 0, 0
+  index: 2
+teleport
+  rotate: false
+  xy: 781, 795
+  size: 87, 127
+  orig: 87, 127
+  offset: 0, 0
+  index: 3
+BLACKBOY2RUNNING
+  rotate: false
+  xy: 870, 795
+  size: 109, 94
+  orig: 122, 108
+  offset: 13, 0
+  index: 15
+shock
+  rotate: false
+  xy: 870, 891
+  size: 76, 133
+  orig: 76, 133
+  offset: 0, 0
+  index: 2
+HELMETBOYFALL
+  rotate: false
+  xy: 948, 891
+  size: 76, 110
+  orig: 88, 110
+  offset: 0, 0
+  index: 4
+REDGIRLRUNNING
+  rotate: false
+  xy: 781, 924
+  size: 84, 99
+  orig: 114, 102
+  offset: 24, 0
+  index: 14
+REDGIRLFALL
+  rotate: false
+  xy: 306, 482
+  size: 58, 142
+  orig: 62, 148
+  offset: 0, 4
+  index: 8
+GIRLFALL
+  rotate: false
+  xy: 306, 741
+  size: 54, 147
+  orig: 62, 148
+  offset: 8, 1
+  index: 1
+HELMETBOYSLICER
+  rotate: false
+  xy: 306, 626
+  size: 72, 108
+  orig: 72, 108
+  offset: 0, 0
+  index: 2
+NINJASLICER
+  rotate: false
+  xy: 306, 890
+  size: 72, 108
+  orig: 72, 108
+  offset: 0, 0
+  index: 2
+BOYSLICER
+  rotate: false
+  xy: 583, 685
+  size: 65, 111
+  orig: 65, 111
+  offset: 0, 0
+  index: 2
+cloud
+  rotate: false
+  xy: 707, 176
+  size: 164, 36
+  orig: 164, 36
+  offset: 0, 0
+  index: 2
+cloud
+  rotate: false
+  xy: 873, 176
+  size: 151, 32
+  orig: 151, 32
+  offset: 0, 0
+  index: 1
+beartrap
+  rotate: false
+  xy: 654, 978
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: 5
+freez bullet
+  rotate: false
+  xy: 530, 989
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+BOYBODY
+  rotate: false
+  xy: 873, 210
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: 2
+arrow
+  rotate: false
+  xy: 608, 989
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+mind-blast
+  rotate: false
+  xy: 927, 210
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+
+commonlevel3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+thundercloud
+  rotate: false
+  xy: 0, 0
+  size: 890, 68
+  orig: 890, 480
+  offset: 0, 412
+  index: 2
+thundercloud
+  rotate: false
+  xy: 0, 70
+  size: 890, 57
+  orig: 890, 480
+  offset: 0, 423
+  index: 1
+building
+  rotate: false
+  xy: 0, 129
+  size: 40, 343
+  orig: 40, 343
+  offset: 0, 0
+  index: 2
+building
+  rotate: false
+  xy: 0, 474
+  size: 40, 343
+  orig: 40, 343
+  offset: 0, 0
+  index: 6
+REDGIRLRUNNING
+  rotate: false
+  xy: 42, 129
+  size: 114, 88
+  orig: 114, 102
+  offset: 0, 14
+  index: 1
+teleport
+  rotate: false
+  xy: 42, 219
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: 1
+BULLHATBOYRUNNING
+  rotate: false
+  xy: 42, 320
+  size: 88, 108
+  orig: 122, 108
+  offset: 13, 0
+  index: 15
+GIRLRUNNING
+  rotate: false
+  xy: 42, 430
+  size: 114, 83
+  orig: 114, 102
+  offset: 0, 14
+  index: 1
+BOYJUMP
+  rotate: false
+  xy: 42, 515
+  size: 107, 88
+  orig: 115, 115
+  offset: 8, 1
+  index: 1
+NINJAFALL
+  rotate: false
+  xy: 42, 605
+  size: 88, 106
+  orig: 88, 110
+  offset: 0, 0
+  index: 3
+HELMETBOYFALL
+  rotate: false
+  xy: 42, 713
+  size: 88, 106
+  orig: 88, 110
+  offset: 0, 0
+  index: 3
+BULLHATBOYRUNNING
+  rotate: false
+  xy: 158, 129
+  size: 115, 81
+  orig: 122, 108
+  offset: 0, 27
+  index: 1
+BLACKBOY2RUNNING
+  rotate: false
+  xy: 42, 821
+  size: 108, 86
+  orig: 122, 108
+  offset: 14, 22
+  index: 9
+BULLHATBOYRUNNING
+  rotate: false
+  xy: 42, 909
+  size: 108, 86
+  orig: 122, 108
+  offset: 14, 22
+  index: 9
+BLACKBOYRUNNING
+  rotate: false
+  xy: 158, 212
+  size: 108, 86
+  orig: 122, 108
+  offset: 14, 22
+  index: 9
+BULLHATBOYRUNNING
+  rotate: false
+  xy: 158, 300
+  size: 84, 108
+  orig: 122, 108
+  offset: 20, 0
+  index: 11
+BULLHATBOYRUNNING
+  rotate: false
+  xy: 158, 410
+  size: 84, 106
+  orig: 122, 108
+  offset: 17, 2
+  index: 7
+BULLHATBOYJUMP
+  rotate: false
+  xy: 158, 518
+  size: 81, 108
+  orig: 122, 108
+  offset: 40, 0
+  index: 13
+BLACKBOY2RUNNING
+  rotate: false
+  xy: 158, 628
+  size: 96, 90
+  orig: 122, 108
+  offset: 20, 0
+  index: 11
+BLACKBOY2RUNNING
+  rotate: false
+  xy: 158, 720
+  size: 91, 94
+  orig: 122, 108
+  offset: 17, 2
+  index: 7
+BOYFALL
+  rotate: false
+  xy: 158, 816
+  size: 97, 88
+  orig: 97, 90
+  offset: 0, 0
+  index: 3
+BULLHATBOYRUNNING
+  rotate: false
+  xy: 158, 906
+  size: 81, 105
+  orig: 122, 108
+  offset: 21, 0
+  index: 3
+REDGIRLJUMP
+  rotate: false
+  xy: 268, 212
+  size: 101, 84
+  orig: 114, 102
+  offset: 9, 7
+  index: 4
+NINJAFALL
+  rotate: false
+  xy: 268, 298
+  size: 76, 110
+  orig: 88, 110
+  offset: 0, 0
+  index: 4
+BLACKBOYRUNNING
+  rotate: false
+  xy: 346, 298
+  size: 88, 94
+  orig: 122, 108
+  offset: 13, 0
+  index: 15
+HELMETBOYSLICER
+  rotate: false
+  xy: 346, 394
+  size: 79, 104
+  orig: 79, 104
+  offset: 0, 0
+  index: 1
+NINJASLICER
+  rotate: false
+  xy: 346, 500
+  size: 79, 104
+  orig: 79, 104
+  offset: 0, 0
+  index: 1
+NINJAFALL
+  rotate: false
+  xy: 268, 410
+  size: 76, 108
+  orig: 88, 110
+  offset: 0, 0
+  index: 2
+HELMETBOYFALL
+  rotate: false
+  xy: 268, 520
+  size: 76, 108
+  orig: 88, 110
+  offset: 0, 0
+  index: 2
+BLACKBOY2RUNNING
+  rotate: false
+  xy: 275, 129
+  size: 115, 71
+  orig: 122, 108
+  offset: 0, 27
+  index: 1
+BLACKBOYRUNNING
+  rotate: false
+  xy: 392, 129
+  size: 115, 71
+  orig: 122, 108
+  offset: 0, 27
+  index: 1
+NINJAREADY
+  rotate: false
+  xy: 346, 606
+  size: 78, 104
+  orig: 78, 104
+  offset: 0, 0
+  index: 5
+NINJAREADY
+  rotate: false
+  xy: 346, 712
+  size: 78, 104
+  orig: 78, 104
+  offset: 0, 0
+  index: 2
+NINJAREADY
+  rotate: false
+  xy: 346, 818
+  size: 78, 104
+  orig: 78, 104
+  offset: 0, 0
+  index: 3
+NINJAREADY
+  rotate: false
+  xy: 427, 394
+  size: 78, 104
+  orig: 78, 104
+  offset: 0, 0
+  index: 1
+NINJAREADY
+  rotate: false
+  xy: 507, 394
+  size: 78, 104
+  orig: 78, 104
+  offset: 0, 0
+  index: 7
+NINJAREADY
+  rotate: false
+  xy: 587, 394
+  size: 78, 104
+  orig: 78, 104
+  offset: 0, 0
+  index: 4
+NINJAREADY
+  rotate: false
+  xy: 667, 394
+  size: 78, 104
+  orig: 78, 104
+  offset: 0, 0
+  index: 6
+NINJAFALL
+  rotate: false
+  xy: 268, 630
+  size: 75, 108
+  orig: 88, 110
+  offset: 0, 0
+  index: 1
+NINJAFALL
+  rotate: false
+  xy: 268, 740
+  size: 75, 108
+  orig: 88, 110
+  offset: 0, 0
+  index: 5
+HELMETBOYFALL
+  rotate: false
+  xy: 268, 850
+  size: 75, 108
+  orig: 88, 110
+  offset: 0, 0
+  index: 1
+REDGIRLRUNNING
+  rotate: false
+  xy: 747, 394
+  size: 83, 97
+  orig: 114, 102
+  offset: 23, 3
+  index: 5
+mind-blast
+  rotate: false
+  xy: 436, 298
+  size: 90, 88
+  orig: 90, 88
+  offset: 0, 0
+  index: 9
+mind-blast
+  rotate: false
+  xy: 528, 298
+  size: 87, 91
+  orig: 87, 91
+  offset: 0, 0
+  index: 8
+BLACKBOYRUNNING
+  rotate: false
+  xy: 617, 298
+  size: 84, 94
+  orig: 122, 108
+  offset: 17, 2
+  index: 7
+BOYRUNNING
+  rotate: false
+  xy: 703, 298
+  size: 88, 87
+  orig: 115, 115
+  offset: 21, 18
+  index: 2
+BOYFALL
+  rotate: false
+  xy: 793, 298
+  size: 85, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: 2
+BOYFALL
+  rotate: false
+  xy: 880, 298
+  size: 85, 90
+  orig: 97, 90
+  offset: 1, 0
+  index: 4
+BLACKBOY2FALL
+  rotate: false
+  xy: 371, 212
+  size: 92, 83
+  orig: 93, 92
+  offset: 0, 0
+  index: 6
+BULLHATBOYFALL
+  rotate: false
+  xy: 465, 212
+  size: 93, 82
+  orig: 93, 92
+  offset: 0, 1
+  index: 6
+BOYFALL
+  rotate: false
+  xy: 832, 394
+  size: 84, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: 5
+BOYFALL
+  rotate: false
+  xy: 832, 394
+  size: 84, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: 1
+BLACKBOYFALL
+  rotate: false
+  xy: 560, 212
+  size: 92, 82
+  orig: 93, 92
+  offset: 0, 1
+  index: 6
+mind-blast
+  rotate: false
+  xy: 654, 212
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: 6
+REDGIRLRUNNING
+  rotate: false
+  xy: 918, 394
+  size: 84, 88
+  orig: 114, 102
+  offset: 21, 0
+  index: 10
+HELMETBOYRUNNING
+  rotate: false
+  xy: 346, 924
+  size: 77, 96
+  orig: 81, 100
+  offset: 0, 1
+  index: 6
+BLACKBOYRUNNING
+  rotate: false
+  xy: 427, 500
+  size: 82, 90
+  orig: 122, 108
+  offset: 20, 0
+  index: 11
+BLACKBOY2JUMP
+  rotate: false
+  xy: 427, 592
+  size: 81, 90
+  orig: 122, 108
+  offset: 40, 0
+  index: 13
+GIRLJUMP
+  rotate: false
+  xy: 509, 129
+  size: 101, 72
+  orig: 114, 102
+  offset: 9, 7
+  index: 4
+BULLHATBOYFALL
+  rotate: false
+  xy: 511, 500
+  size: 85, 85
+  orig: 93, 92
+  offset: 0, 0
+  index: 4
+mind-blast
+  rotate: false
+  xy: 511, 587
+  size: 84, 86
+  orig: 84, 86
+  offset: 0, 0
+  index: 10
+BLACKBOYJUMP
+  rotate: false
+  xy: 427, 684
+  size: 81, 89
+  orig: 122, 108
+  offset: 40, 0
+  index: 13
+HELMETBOYRUNNING
+  rotate: false
+  xy: 427, 775
+  size: 78, 92
+  orig: 81, 100
+  offset: 0, 1
+  index: 2
+GIRLRUNNING
+  rotate: false
+  xy: 892, 0
+  size: 105, 68
+  orig: 114, 102
+  offset: 6, 34
+  index: 7
+REDGIRLRUNNING
+  rotate: false
+  xy: 612, 129
+  size: 105, 68
+  orig: 114, 102
+  offset: 6, 34
+  index: 7
+BLACKBOY2RUNNING
+  rotate: false
+  xy: 747, 212
+  size: 85, 84
+  orig: 122, 108
+  offset: 21, 0
+  index: 3
+BLACKBOY2FALL
+  rotate: false
+  xy: 598, 500
+  size: 83, 85
+  orig: 93, 92
+  offset: 0, 0
+  index: 8
+BLACKBOY2FALL
+  rotate: false
+  xy: 683, 500
+  size: 83, 85
+  orig: 93, 92
+  offset: 0, 0
+  index: 9
+BLACKBOY2FALL
+  rotate: false
+  xy: 834, 212
+  size: 83, 84
+  orig: 93, 92
+  offset: 0, 1
+  index: 1
+BULLHATBOYFALL
+  rotate: false
+  xy: 427, 869
+  size: 82, 85
+  orig: 93, 92
+  offset: 0, 0
+  index: 8
+HELMETBOYJUMP
+  rotate: false
+  xy: 511, 675
+  size: 78, 89
+  orig: 81, 100
+  offset: 3, 9
+  index: 1
+HELMETBOYREADY
+  rotate: false
+  xy: 511, 766
+  size: 68, 102
+  orig: 78, 104
+  offset: 6, 0
+  index: 6
+BOYRUNNING
+  rotate: false
+  xy: 511, 870
+  size: 75, 92
+  orig: 115, 115
+  offset: 27, 1
+  index: 3
+BOYRUNNING
+  rotate: false
+  xy: 511, 870
+  size: 75, 92
+  orig: 115, 115
+  offset: 27, 1
+  index: 7
+BLACKBOY2FALL
+  rotate: false
+  xy: 919, 212
+  size: 83, 83
+  orig: 93, 92
+  offset: 0, 2
+  index: 4
+BLACKBOY2RUNNING
+  rotate: false
+  xy: 768, 500
+  size: 84, 82
+  orig: 122, 108
+  offset: 15, 0
+  index: 6
+BULLHATBOYFALL
+  rotate: false
+  xy: 854, 500
+  size: 81, 85
+  orig: 93, 92
+  offset: 0, 0
+  index: 1
+HELMETBOYREADY
+  rotate: false
+  xy: 597, 587
+  size: 67, 102
+  orig: 78, 104
+  offset: 6, 0
+  index: 5
+BOYSLICER
+  rotate: false
+  xy: 597, 691
+  size: 61, 112
+  orig: 61, 112
+  offset: 0, 0
+  index: 1
+HELMETBOYRUNNING
+  rotate: false
+  xy: 666, 587
+  size: 68, 99
+  orig: 81, 100
+  offset: 11, 1
+  index: 8
+HELMETBOYRUNNING
+  rotate: false
+  xy: 736, 587
+  size: 68, 99
+  orig: 81, 100
+  offset: 11, 1
+  index: 4
+mind-blast
+  rotate: false
+  xy: 937, 500
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: 4
+REDGIRLRUNNING
+  rotate: false
+  xy: 719, 129
+  size: 83, 81
+  orig: 114, 102
+  offset: 19, 0
+  index: 12
+BLACKBOYFALL
+  rotate: false
+  xy: 806, 587
+  size: 81, 83
+  orig: 93, 92
+  offset: 2, 2
+  index: 4
+BLACKBOYRUNNING
+  rotate: false
+  xy: 889, 587
+  size: 80, 84
+  orig: 122, 108
+  offset: 21, 0
+  index: 3
+BLACKBOYFALL
+  rotate: false
+  xy: 666, 688
+  size: 80, 84
+  orig: 93, 92
+  offset: 0, 1
+  index: 8
+HELMETBOYRUNNING
+  rotate: false
+  xy: 666, 774
+  size: 80, 84
+  orig: 81, 100
+  offset: 0, 16
+  index: 1
+REDGIRLRUNNING
+  rotate: false
+  xy: 666, 860
+  size: 79, 85
+  orig: 114, 102
+  offset: 23, 0
+  index: 3
+HELMETBOYREADY
+  rotate: false
+  xy: 597, 805
+  size: 66, 101
+  orig: 78, 104
+  offset: 7, 0
+  index: 7
+HELMETBOYREADY
+  rotate: false
+  xy: 597, 908
+  size: 66, 101
+  orig: 78, 104
+  offset: 7, 0
+  index: 3
+HELMETBOYREADY
+  rotate: false
+  xy: 748, 688
+  size: 66, 101
+  orig: 78, 104
+  offset: 7, 0
+  index: 4
+BOYRUNNING
+  rotate: false
+  xy: 804, 129
+  size: 84, 79
+  orig: 115, 115
+  offset: 31, 19
+  index: 6
+BULLHATBOYFALL
+  rotate: false
+  xy: 816, 688
+  size: 77, 85
+  orig: 93, 92
+  offset: 0, 0
+  index: 9
+HELMETBOYREADY
+  rotate: false
+  xy: 895, 688
+  size: 65, 100
+  orig: 78, 104
+  offset: 7, 0
+  index: 1
+HELMETBOYREADY
+  rotate: false
+  xy: 748, 791
+  size: 65, 100
+  orig: 78, 104
+  offset: 7, 0
+  index: 2
+GIRLFALL
+  rotate: false
+  xy: 748, 893
+  size: 51, 127
+  orig: 62, 148
+  offset: 0, 13
+  index: 5
+REDGIRLFALL
+  rotate: false
+  xy: 815, 791
+  size: 51, 127
+  orig: 62, 148
+  offset: 0, 13
+  index: 5
+NINJARUNNING
+  rotate: false
+  xy: 868, 791
+  size: 77, 84
+  orig: 81, 100
+  offset: 0, 16
+  index: 1
+finish line
+  rotate: false
+  xy: 947, 791
+  size: 77, 83
+  orig: 77, 92
+  offset: 0, 0
+  index: 1
+BLACKBOYFALL
+  rotate: false
+  xy: 868, 877
+  size: 76, 84
+  orig: 93, 92
+  offset: 3, 1
+  index: 1
+HELMETBOYRUNNING
+  rotate: false
+  xy: 946, 877
+  size: 74, 86
+  orig: 81, 100
+  offset: 7, 14
+  index: 5
+NINJAJUMP
+  rotate: false
+  xy: 890, 129
+  size: 78, 76
+  orig: 81, 100
+  offset: 3, 9
+  index: 1
+BOYRUNNING
+  rotate: false
+  xy: 962, 688
+  size: 62, 93
+  orig: 115, 115
+  offset: 38, 0
+  index: 5
+BOYRUNNING
+  rotate: false
+  xy: 962, 688
+  size: 62, 93
+  orig: 115, 115
+  offset: 38, 0
+  index: 9
+deployButton
+  rotate: false
+  xy: 666, 947
+  size: 75, 72
+  orig: 800, 480
+  offset: 6, 6
+  index: -1
+BLACKBOYSLICER
+  rotate: false
+  xy: 967, 298
+  size: 57, 92
+  orig: 61, 97
+  offset: 4, 2
+  index: 2
+BOYREADY
+  rotate: false
+  xy: 971, 587
+  size: 52, 95
+  orig: 55, 98
+  offset: 3, 0
+  index: 4
+BOYREADY
+  rotate: false
+  xy: 815, 920
+  size: 51, 96
+  orig: 55, 98
+  offset: 4, 0
+  index: 2
+GIRLRUNNING
+  rotate: false
+  xy: 427, 956
+  size: 70, 68
+  orig: 114, 102
+  offset: 19, 0
+  index: 12
+icon
+  rotate: false
+  xy: 268, 960
+  size: 66, 61
+  orig: 800, 480
+  offset: 6, 12
+  index: 1
+beartrap
+  rotate: false
+  xy: 892, 70
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: 4
+icon
+  rotate: false
+  xy: 868, 963
+  size: 65, 61
+  orig: 800, 480
+  offset: 8, 11
+  index: 7
+icon
+  rotate: false
+  xy: 511, 964
+  size: 76, 50
+  orig: 800, 480
+  offset: 5, 17
+  index: 5
+HELMETBOYBODY
+  rotate: false
+  xy: 946, 965
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: 1
+BLACKBOYBODY
+  rotate: false
+  xy: 974, 70
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: 1
+switchBullet
+  rotate: false
+  xy: 970, 129
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon
+  rotate: false
+  xy: 970, 129
+  size: 48, 48
+  orig: 800, 480
+  offset: 19, 18
+  index: 8
+
+commonlevel4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line
+  rotate: false
+  xy: 0, 0
+  size: 572, 9
+  orig: 800, 480
+  offset: 115, 22
+  index: -1
+REDGIRLBODY
+  rotate: false
+  xy: 0, 11
+  size: 87, 65
+  orig: 87, 65
+  offset: 0, 0
+  index: 1
+BLACKBOYFALL
+  rotate: false
+  xy: 0, 78
+  size: 74, 84
+  orig: 93, 92
+  offset: 1, 1
+  index: 9
+NINJARUNNING
+  rotate: false
+  xy: 0, 164
+  size: 74, 80
+  orig: 81, 100
+  offset: 7, 14
+  index: 5
+mind-blast
+  rotate: false
+  xy: 0, 246
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: 5
+finish line
+  rotate: false
+  xy: 0, 333
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: 2
+GIRLRUNNING
+  rotate: false
+  xy: 0, 418
+  size: 72, 85
+  orig: 114, 102
+  offset: 23, 3
+  index: 14
+GIRLRUNNING
+  rotate: false
+  xy: 89, 11
+  size: 71, 88
+  orig: 114, 102
+  offset: 24, 0
+  index: 5
+NINJARUNNING
+  rotate: false
+  xy: 89, 101
+  size: 71, 84
+  orig: 81, 100
+  offset: 0, 1
+  index: 2
+NINJARUNNING
+  rotate: false
+  xy: 89, 101
+  size: 71, 84
+  orig: 81, 100
+  offset: 0, 1
+  index: 6
+GIRLRUNNING
+  rotate: false
+  xy: 89, 187
+  size: 71, 74
+  orig: 114, 102
+  offset: 21, 0
+  index: 10
+BLACKBOY2RUNNING
+  rotate: false
+  xy: 89, 263
+  size: 70, 83
+  orig: 122, 108
+  offset: 30, 0
+  index: 13
+jumpButton
+  rotate: false
+  xy: 89, 348
+  size: 70, 67
+  orig: 800, 480
+  offset: 724, 7
+  index: -1
+REDGIRLREADY
+  rotate: false
+  xy: 89, 417
+  size: 69, 92
+  orig: 69, 92
+  offset: 0, 0
+  index: 15
+REDGIRLREADY
+  rotate: false
+  xy: 162, 11
+  size: 69, 92
+  orig: 69, 92
+  offset: 0, 0
+  index: 1
+REDGIRLREADY
+  rotate: false
+  xy: 162, 105
+  size: 69, 91
+  orig: 69, 92
+  offset: 0, 1
+  index: 5
+REDGIRLREADY
+  rotate: false
+  xy: 162, 198
+  size: 69, 91
+  orig: 69, 92
+  offset: 0, 1
+  index: 11
+GIRLRUNNING
+  rotate: false
+  xy: 162, 291
+  size: 69, 77
+  orig: 114, 102
+  offset: 23, 0
+  index: 3
+playersIcon
+  rotate: false
+  xy: 162, 370
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: 5
+HELMETBOYRUNNING
+  rotate: false
+  xy: 162, 420
+  size: 68, 87
+  orig: 81, 100
+  offset: 6, 0
+  index: 7
+icon
+  rotate: false
+  xy: 233, 11
+  size: 68, 53
+  orig: 800, 480
+  offset: 8, 16
+  index: 4
+HELMETBOYRUNNING
+  rotate: false
+  xy: 233, 66
+  size: 67, 85
+  orig: 81, 100
+  offset: 7, 0
+  index: 3
+mind-blast
+  rotate: false
+  xy: 233, 153
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: 7
+icon
+  rotate: false
+  xy: 233, 209
+  size: 66, 51
+  orig: 800, 480
+  offset: 7, 16
+  index: 6
+REDGIRLSLICER
+  rotate: false
+  xy: 233, 262
+  size: 65, 90
+  orig: 65, 91
+  offset: 0, 0
+  index: 1
+NINJARUNNING
+  rotate: false
+  xy: 233, 354
+  size: 65, 88
+  orig: 81, 100
+  offset: 13, 1
+  index: 4
+NINJARUNNING
+  rotate: false
+  xy: 233, 354
+  size: 65, 88
+  orig: 81, 100
+  offset: 13, 1
+  index: 8
+icon
+  rotate: false
+  xy: 233, 444
+  size: 65, 45
+  orig: 800, 480
+  offset: 10, 21
+  index: 3
+GIRLREADY
+  rotate: false
+  xy: 303, 11
+  size: 64, 87
+  orig: 69, 92
+  offset: 2, 1
+  index: 5
+GIRLREADY
+  rotate: false
+  xy: 303, 100
+  size: 64, 87
+  orig: 69, 92
+  offset: 2, 1
+  index: 11
+GIRLSLICER
+  rotate: false
+  xy: 303, 189
+  size: 63, 88
+  orig: 65, 91
+  offset: 0, 0
+  index: 1
+GIRLREADY
+  rotate: false
+  xy: 303, 279
+  size: 63, 88
+  orig: 69, 92
+  offset: 3, 0
+  index: 1
+GIRLREADY
+  rotate: false
+  xy: 303, 369
+  size: 63, 88
+  orig: 69, 92
+  offset: 3, 0
+  index: 15
+playersIcon
+  rotate: false
+  xy: 303, 459
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: 2
+BLACKBOY2BODY
+  rotate: false
+  xy: 369, 11
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: 1
+finish line
+  rotate: false
+  xy: 369, 63
+  size: 62, 92
+  orig: 62, 92
+  offset: 0, 0
+  index: 3
+REDGIRLSLICER
+  rotate: false
+  xy: 369, 157
+  size: 62, 91
+  orig: 65, 91
+  offset: 0, 0
+  index: 2
+NINJARUNNING
+  rotate: false
+  xy: 369, 250
+  size: 62, 75
+  orig: 81, 100
+  offset: 8, 0
+  index: 3
+NINJARUNNING
+  rotate: false
+  xy: 369, 250
+  size: 62, 75
+  orig: 81, 100
+  offset: 8, 0
+  index: 7
+playersIcon
+  rotate: false
+  xy: 369, 327
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: 4
+playersIcon
+  rotate: false
+  xy: 369, 374
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: 7
+NINJABODY
+  rotate: false
+  xy: 369, 422
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: 1
+BULLHATBOYREADY
+  rotate: false
+  xy: 434, 11
+  size: 58, 106
+  orig: 58, 106
+  offset: 0, 0
+  index: 1
+BOYRUNNING
+  rotate: false
+  xy: 434, 119
+  size: 58, 90
+  orig: 115, 115
+  offset: 36, 0
+  index: 4
+BOYRUNNING
+  rotate: false
+  xy: 434, 211
+  size: 58, 90
+  orig: 115, 115
+  offset: 36, 0
+  index: 8
+BULLHATBOYBODY
+  rotate: false
+  xy: 434, 303
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: 1
+slicerBlood
+  rotate: false
+  xy: 434, 365
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+BULLHATBOYREADY
+  rotate: false
+  xy: 494, 11
+  size: 57, 106
+  orig: 58, 106
+  offset: 1, 0
+  index: 15
+BULLHATBOYSLICER
+  rotate: false
+  xy: 494, 119
+  size: 57, 95
+  orig: 61, 97
+  offset: 4, 2
+  index: 2
+beartrap
+  rotate: false
+  xy: 434, 420
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: 3
+BLACKBOYSLICER
+  rotate: false
+  xy: 494, 216
+  size: 56, 97
+  orig: 56, 97
+  offset: 0, 0
+  index: 1
+BLACKBOY2SLICER
+  rotate: false
+  xy: 494, 315
+  size: 56, 97
+  orig: 56, 97
+  offset: 0, 0
+  index: 1
+BULLHATBOYSLICER
+  rotate: false
+  xy: 494, 414
+  size: 56, 97
+  orig: 56, 97
+  offset: 0, 0
+  index: 1
+playersIcon
+  rotate: false
+  xy: 553, 11
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: 8
+playersIcon
+  rotate: false
+  xy: 611, 11
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: 6
+BULLHATBOYREADY
+  rotate: false
+  xy: 553, 69
+  size: 55, 106
+  orig: 58, 106
+  offset: 3, 0
+  index: 2
+BOYREADY
+  rotate: false
+  xy: 553, 177
+  size: 55, 96
+  orig: 55, 98
+  offset: 0, 0
+  index: 5
+BOYREADY
+  rotate: false
+  xy: 553, 275
+  size: 55, 96
+  orig: 55, 98
+  offset: 0, 0
+  index: 3
+GIRLSLICER
+  rotate: false
+  xy: 553, 373
+  size: 55, 91
+  orig: 65, 91
+  offset: 7, 0
+  index: 2
+icon
+  rotate: false
+  xy: 669, 11
+  size: 55, 55
+  orig: 800, 480
+  offset: 15, 14
+  index: 2
+slicer
+  rotate: false
+  xy: 726, 11
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+BULLHATBOYRUNNING
+  rotate: false
+  xy: 610, 69
+  size: 54, 100
+  orig: 122, 108
+  offset: 39, 0
+  index: 13
+BULLHATBOYRUNNING
+  rotate: false
+  xy: 610, 171
+  size: 54, 99
+  orig: 122, 108
+  offset: 39, 0
+  index: 6
+BLACKBOYRUNNING
+  rotate: false
+  xy: 610, 272
+  size: 54, 83
+  orig: 122, 108
+  offset: 39, 0
+  index: 13
+BLACKBOYRUNNING
+  rotate: false
+  xy: 610, 357
+  size: 54, 82
+  orig: 122, 108
+  offset: 39, 0
+  index: 6
+BULLHATBOYREADY
+  rotate: false
+  xy: 666, 69
+  size: 53, 106
+  orig: 58, 106
+  offset: 5, 0
+  index: 4
+BLACKBOY2SLICER
+  rotate: false
+  xy: 721, 69
+  size: 52, 94
+  orig: 56, 97
+  offset: 4, 3
+  index: 2
+BOYREADY
+  rotate: false
+  xy: 775, 69
+  size: 51, 96
+  orig: 55, 98
+  offset: 4, 0
+  index: 6
+playersIcon
+  rotate: false
+  xy: 783, 11
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: 3
+BLACKBOY2READY
+  rotate: false
+  xy: 828, 69
+  size: 50, 93
+  orig: 51, 93
+  offset: 0, 0
+  index: 1
+BLACKBOY2READY
+  rotate: false
+  xy: 880, 69
+  size: 50, 93
+  orig: 51, 93
+  offset: 1, 0
+  index: 4
+BLACKBOYREADY
+  rotate: false
+  xy: 932, 69
+  size: 50, 92
+  orig: 51, 93
+  offset: 1, 0
+  index: 4
+BOYREADY
+  rotate: false
+  xy: 666, 177
+  size: 49, 98
+  orig: 55, 98
+  offset: 6, 0
+  index: 1
+BOYREADY
+  rotate: false
+  xy: 666, 277
+  size: 49, 97
+  orig: 55, 98
+  offset: 6, 0
+  index: 8
+BOYREADY
+  rotate: false
+  xy: 666, 376
+  size: 49, 97
+  orig: 55, 98
+  offset: 6, 0
+  index: 7
+BLACKBOY2READY
+  rotate: false
+  xy: 717, 177
+  size: 49, 93
+  orig: 51, 93
+  offset: 1, 0
+  index: 15
+BLACKBOYREADY
+  rotate: false
+  xy: 717, 272
+  size: 49, 93
+  orig: 51, 93
+  offset: 0, 0
+  index: 1
+BLACKBOY2READY
+  rotate: false
+  xy: 717, 367
+  size: 49, 93
+  orig: 51, 93
+  offset: 1, 0
+  index: 2
+BLACKBOYREADY
+  rotate: false
+  xy: 768, 177
+  size: 49, 92
+  orig: 51, 93
+  offset: 1, 0
+  index: 2
+BLACKBOYREADY
+  rotate: false
+  xy: 819, 177
+  size: 49, 92
+  orig: 51, 93
+  offset: 1, 0
+  index: 15
+cross
+  rotate: false
+  xy: 836, 11
+  size: 48, 48
+  orig: 800, 480
+  offset: 28, 422
+  index: -1
+mind-blast
+  rotate: false
+  xy: 886, 11
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: 3
+BOYBODY
+  rotate: false
+  xy: 369, 469
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: 1

@@ -1,0 +1,26 @@
+
+splashScreen1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 0, 0
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+loadingBox
+  rotate: false
+  xy: 0, 482
+  size: 275, 23
+  orig: 800, 480
+  offset: 278, 96
+  index: -1
+filling
+  rotate: false
+  xy: 277, 482
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1

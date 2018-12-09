@@ -1,0 +1,192 @@
+<Game width="26929" height="480">
+
+	<Level>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="2" y="-106" width="1474" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="1674" y="-10" width="1474" height="273"></GameObject>
+		<GameObject type="Platform" canJump="false" spawnplatform="true" x="3368" y="-10" width="502" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="4086" y="-106" width="1150" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="5463" y="-185" width="1150" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="6819" y="-106" width="3742" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="10759" y="-10" width="502" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="11486" y="-10" width="1150" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="12865" y="-185" width="1150" height="273"></GameObject>
+		<GameObject type="Platform" canJump="false" spawnplatform="true" x="14015" y="-70" width="502" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="14515" y="-185" width="1150" height="273"></GameObject>
+		<GameObject type="Platform" canJump="false" spawnplatform="true" x="15664" y="-70" width="502" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="16164" y="-185" width="1150" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="17504" y="-106" width="826" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="18504" y="-10" width="502" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="19197" y="-106" width="3418" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="22848" y="-185" width="1474" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="24470" y="-106" width="178" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="24800" y="-10" width="1150" height="273"></GameObject>
+		<GameObject type="booster" x="2034" y="291" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="4403" y="291" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="6341" y="170" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="8213" y="350" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="9245" y="231" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="11722" y="341" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="14689" y="241" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="16831" y="138" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="18900" y="319" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="20906" y="319" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="23471" y="138" width="52" height="50"></GameObject>
+		<GameObject type="obs" x="5814" y="83" width="59" height="38"></GameObject>
+		<GameObject type="obs" x="8183" y="161" width="59" height="38"></GameObject>
+		<GameObject type="obs" x="10088" y="161" width="59" height="38"></GameObject>
+		<GameObject type="obs" x="12072" y="256" width="59" height="38"></GameObject>
+		<GameObject type="obs" x="16455" y="83" width="59" height="38"></GameObject>
+		<GameObject type="obs" x="19735" y="161" width="59" height="38"></GameObject>
+		<GameObject type="obs" x="21794" y="161" width="59" height="38"></GameObject>
+		<GameObject type="obs" x="23978" y="83" width="59" height="38"></GameObject>
+		<GameObject type="finishLine" x="24950" y="263" width="0" height="0"></GameObject>
+	</Level>
+
+	<Level>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="0" y="50" width="1150" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="1395" y="-87" width="502" height="273"></GameObject>
+		<GameObject type="Platform" canJump="false" spawnplatform="true" x="2015" y="-1" width="502" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="2525" y="90" width="502" height="273"></GameObject>
+		<GameObject type="Platform" canJump="false" spawnplatform="false" x="2524" y="584" width="1150" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="3141" y="163" width="1798" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="5065" y="286" width="1150" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="6381" y="258" width="826" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="7677" y="378" width="1474" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="9367" y="258" width="1150" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="10627" y="258" width="1150" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="11900" y="318" width="1150" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="13167" y="248" width="1474" height="273"></GameObject>
+		<GameObject type="Platform" canJump="false" spawnplatform="false" x="14837" y="188" width="1150" height="273"></GameObject>
+		<GameObject type="Platform" canJump="false" spawnplatform="false" x="16167" y="338" width="1150" height="273"></GameObject>
+		<GameObject type="Platform" canJump="false" spawnplatform="false" x="17353" y="240" width="502" height="273"></GameObject>
+		<GameObject type="Platform" canJump="false" spawnplatform="false" x="17847" y="378" width="1474" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="19821" y="248" width="826" height="273"></GameObject>
+		<GameObject type="Platform" canJump="true" spawnplatform="true" x="20783" y="286" width="1150" height="273"></GameObject>
+		<GameObject type="Platform" canJump="false" spawnplatform="true" x="21949" y="163" width="1798" height="273"></GameObject>
+		<GameObject type="Platform" canJump="false" spawnplatform="false" x="23325" y="584" width="1150" height="273"></GameObject>
+		<GameObject type="Platform" canJump="false" spawnplatform="true" x="23842" y="90" width="502" height="273"></GameObject>
+		<GameObject type="Platform" canJump="false" spawnplatform="false" x="24872" y="-87" width="502" height="273"></GameObject>
+		<GameObject type="Platform" canJump="false" spawnplatform="false" x="24352" y="-1" width="502" height="273"></GameObject>
+		<GameObject type="Platform" canJump="false" spawnplatform="false" x="25394" y="-6" width="1474" height="273"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="false" rotation="0" x="1283" y="404" width="264" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="false" rotation="25" x="1550" y="404" width="792" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="false" rotation="0" x="2260" y="742" width="264" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="false" rotation="29" x="7207" y="509" width="528" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="false" rotation="0" x="7857" y="877" width="1056" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="false" rotation="0" x="9159" y="877" width="1023" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="false" rotation="0" x="10438" y="877" width="792" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="false" rotation="0" x="11443" y="877" width="528" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="false" rotation="-25" x="11970" y="877" width="264" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="false" rotation="-17" x="14636" y="502" width="231" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="false" rotation="0" x="14903" y="597" width="792" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="false" rotation="37" x="15983" y="430" width="264" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="false" rotation="14" x="19312" y="621" width="528" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="false" rotation="0" x="22071" y="559" width="132" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="false" rotation="12" x="22202" y="559" width="396" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="false" rotation="12" x="22688" y="685" width="660" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="false" rotation="0" x="24470" y="742" width="264" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="false" rotation="-24" x="24738" y="742" width="792" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="false" rotation="0" x="25460" y="420" width="264" height="33"></GameObject>
+		<GameObject type="booster" x="1846" y="622" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="2234" y="378" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="5748" y="657" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="8336" y="713" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="9411" y="935" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="10239" y="567" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="12650" y="689" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="15308" y="652" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="25098" y="622" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="24710" y="378" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="21196" y="657" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="18608" y="713" width="52" height="50"></GameObject>
+		<GameObject type="obs" x="2726" y="358" width="59" height="38"></GameObject>
+		<GameObject type="obs" x="3118" y="852" width="59" height="38"></GameObject>
+		<GameObject type="obs" x="4343" y="431" width="59" height="38"></GameObject>
+		<GameObject type="obs" x="8485" y="647" width="59" height="38"></GameObject>
+		<GameObject type="obs" x="11282" y="525" width="59" height="38"></GameObject>
+		<GameObject type="obs" x="12542" y="587" width="59" height="38"></GameObject>
+		<GameObject type="obs" x="15492" y="456" width="59" height="38"></GameObject>
+		<GameObject type="obs" x="24211" y="358" width="59" height="38"></GameObject>
+		<GameObject type="obs" x="23819" y="852" width="59" height="38"></GameObject>
+		<GameObject type="obs" x="22594" y="431" width="59" height="38"></GameObject>
+		<GameObject type="obs" x="18452" y="647" width="59" height="38"></GameObject>
+		<GameObject type="finishLine" x="26193" y="267" width="77" height="83"></GameObject>
+	</Level>
+
+	<Level>
+		<GameObject type="finishLine" spawnplatform="true" x="26538" y="479" width="77" height="83"></GameObject>
+		<GameObject type="booster" x="1401" y="1221" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="4495" y="1080" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="8754" y="706" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="12327" y="900" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="12631" y="515" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="14853" y="393" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="16009" y="272" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="19513" y="338" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="20094" y="700" width="52" height="50"></GameObject>
+		<GameObject type="booster" x="22556" y="414" width="52" height="50"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="true" x="0" y="1108" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="true" x="518" y="1108" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="true" spawnplatform="true" x="984" y="1010" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="true" x="1682" y="1004" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="true" spawnplatform="true" x="2140" y="900" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="true" x="2948" y="802" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="true" spawnplatform="true" x="3466" y="793" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="true" x="3885" y="670" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="false" x="4200" y="900" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="true" x="4403" y="670" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="false" x="4718" y="900" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="true" x="4921" y="670" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="true" spawnplatform="true" x="5439" y="670" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="true" x="6177" y="670" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="true" spawnplatform="true" x="6695" y="670" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="true" x="7486" y="670" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="true" x="8004" y="670" width="518" height="277"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="true" rotation="-23" x="8512" y="712" width="530" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="true" rotation="0" x="8998" y="508" width="132" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="true" rotation="0" x="9262" y="612" width="264" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="true" rotation="-25" x="9526" y="611" width="530" height="33"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="false" x="9718" y="700" width="518" height="277"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="true" rotation="0" x="10003" y="389" width="132" height="33"></GameObject>
+		<GameObject type="cloud" canJump="true" spawnplatform="false" x="10236" y="700" width="518" height="277"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="true" rotation="0" x="10277" y="389" width="264" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="true" rotation="0" x="10694" y="321" width="1848" height="33"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="false" x="10958" y="700" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="false" x="11476" y="700" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="false" x="11994" y="700" width="518" height="277"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="true" rotation="25" x="12541" y="321" width="663" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="true" rotation="0" x="13141" y="601" width="198" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="true" rotation="0" x="13573" y="492" width="264" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="true" rotation="0" x="13996" y="380" width="660" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="true" rotation="-21" x="14656" y="379" width="662" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="true" rotation="0" x="15272" y="144" width="264" height="33"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="true" x="15543" y="100" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="true" x="16060" y="100" width="518" height="277"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="true" rotation="30" x="16560" y="140" width="398" height="35"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="true" rotation="0" x="16903" y="338" width="396" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="true" rotation="0" x="17500" y="425" width="264" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="true" rotation="-20" x="17764" y="425" width="530" height="33"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="false" x="18055" y="500" width="518" height="277"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="true" rotation="0" x="18260" y="245" width="132" height="33"></GameObject>
+		<GameObject type="cloud" canJump="true" spawnplatform="false" x="18573" y="500" width="518" height="277"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="true" rotation="0" x="18611" y="229" width="1980" height="33"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="false" x="19295" y="500" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="false" x="19813" y="500" width="518" height="277"></GameObject>
+		<GameObject type="cloud" canJump="false" spawnplatform="false" x="20331" y="500" width="518" height="277"></GameObject>
+		<GameObject type="AiryPlatform" canJump="false" spawnplatform="true" rotation="17" x="20591" y="229" width="927" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="false" rotation="0" x="21475" y="500" width="264" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="false" rotation="0" x="21805" y="397" width="264" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="false" rotation="0" x="22102" y="288" width="264" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="true" rotation="0" x="22432" y="200" width="264" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="false" rotation="0" x="22782" y="276" width="264" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="false" rotation="-19" x="23046" y="275" width="530" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="true" rotation="0" x="23545" y="105" width="264" height="33"></GameObject>
+		<GameObject type="cloud" canJump="true" spawnplatform="true" x="24030" y="50" width="518" height="277"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="false" rotation="0" x="24777" y="125" width="396" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="true" rotation="20" x="25173" y="125" width="927" height="33"></GameObject>
+		<GameObject type="AiryPlatform" canJump="true" spawnplatform="true" rotation="0" x="26211" y="446" width="792" height="33"></GameObject>
+
+	</Level>
+
+
+</Game>

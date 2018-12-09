@@ -1,0 +1,33 @@
+
+level-1-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+platform
+  rotate: false
+  xy: 0, 0
+  size: 324, 273
+  orig: 324, 273
+  offset: 0, 0
+  index: 1
+platform
+  rotate: false
+  xy: 326, 0
+  size: 88, 273
+  orig: 89, 273
+  offset: 1, 0
+  index: 2
+obs
+  rotate: false
+  xy: 416, 0
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+airyPlatform
+  rotate: false
+  xy: 477, 0
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
